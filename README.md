@@ -1,5 +1,7 @@
 # Utvarderingclient
 
+[![Build Status](https://dev.azure.com/axelaguilar0902/RaPublic/_apis/build/status/Edminsson.UtvarderingClient?branchName=master)](https://dev.azure.com/axelaguilar0902/RaPublic/_build/latest?definitionId=4&branchName=master)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
 
 ## Development server
